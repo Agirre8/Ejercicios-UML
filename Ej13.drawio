@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="uU8ZBRN2zYf6vFs71hIz" name="Página-1">
+        <mxGraphModel dx="819" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Poligono" style="swimlane;whiteSpace=wrap;html=1;startSize=80;fillColor=#18141D;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="100" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="160" width="40" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#1A1A1A;strokeColor=#18141D;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="170" width="160" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=none;html=1;fillColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="170" as="sourcePoint"/>
+                        <mxPoint x="460" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="Punto" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fillColor=#18141D;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="120" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="X: 1 Número&lt;br/&gt;Y: 1 Número" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="495" y="180" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="135" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Posee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="135" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="3..*^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="135" width="50" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
