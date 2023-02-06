@@ -1,58 +1,65 @@
 <mxfile host="65bd71144e">
     <diagram id="mdnSiF5Ah-GT9xSs8lgr" name="Página-1">
-        <mxGraphModel dx="614" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="476" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="220" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="2" value="Gioconda: Cuadro" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="120" width="240" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="314" y="410" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="3" value="Título = l1: Lugar “La Gioconda”&lt;br/&gt;AC = “1503 - 1516”&lt;br/&gt;Técnica = Óleo&lt;br/&gt;Sub-técnica = Sfumato&lt;br/&gt;Soporte = Madera de álamo&lt;br/&gt;Autor = “Leonardo da Vinci”&lt;br/&gt;Estado de conservación = Regular&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2" vertex="1">
+                    <mxGeometry x="15" y="50" width="210" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Gioconda: Cuadro" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="214" y="120" width="200" height="200" as="geometry"/>
+                <mxCell id="5" value="l1: Lugar" style="swimlane;whiteSpace=wrap;html=1;startSize=35;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="155" width="200" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Título = l1: Lugar “La Gioconda”&lt;br/&gt;AC = “1503 - 1516”&lt;br/&gt;Técnica = Óleo&lt;br/&gt;Sub-técnica = Sfumato&lt;br/&gt;Soporte = Madera de álamo&lt;br/&gt;Autor = “Leonardo da Vinci”&lt;br/&gt;Estado de conservación = Regular&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
-                    <mxGeometry x="-10" y="30" width="210" height="130" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" value="l1: Lugar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="560" y="155" width="200" height="130" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" value="Institución = “Museo del Louvre”&lt;br/&gt;Ciudad = “París”&lt;br/&gt;País = “Francia”&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5">
+                <mxCell id="6" value="Institución = “Museo del Louvre”&lt;br/&gt;Ciudad = “París”&lt;br/&gt;País = “Francia”&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5" vertex="1">
                     <mxGeometry y="45" width="190" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Réplica: Cuadro&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="Réplica: Cuadro&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
                     <mxGeometry x="220" y="420" width="240" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Título = l2: Lugar “Gioconda de El Prado”&lt;br/&gt;AC = “1503 - 1516”&lt;br/&gt;Técnica = Óleo&lt;br/&gt;Sub-técnica = Pincelada simple&lt;br/&gt;Soporte = Madera de nogal&lt;br/&gt;Autor = desconocido&lt;br/&gt;Estado de conservación = Bueno&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="220" y="455" width="240" height="110" as="geometry"/>
+                <mxCell id="9" value="Título = l2: Lugar “Gioconda de El Prado”&lt;br/&gt;AC = “1503 - 1516”&lt;br/&gt;Técnica = Óleo&lt;br/&gt;Sub-técnica = Pincelada simple&lt;br/&gt;Soporte = Madera de nogal&lt;br/&gt;Autor = desconocido&lt;br/&gt;Estado de conservación = Bueno&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="8" vertex="1">
+                    <mxGeometry y="55" width="240" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="460" y="509.5" as="sourcePoint"/>
-                        <mxPoint x="590" y="510" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="11" value="l2: Lugar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="11" value="l2: Lugar" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
                     <mxGeometry x="600" y="430" width="200" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Institución = “Museo de El Prado”&lt;br/&gt;Ciudad = “Madrid”&lt;br/&gt;País = “España”&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="11">
-                    <mxGeometry y="45" width="200" height="70" as="geometry"/>
+                <mxCell id="12" value="Institución = “Museo de El Prado”&lt;br/&gt;Ciudad = “Madrid”&lt;br/&gt;País = “España”&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="11" vertex="1">
+                    <mxGeometry y="55" width="200" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Se Localiza En" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="430" y="195" width="100" height="30" as="geometry"/>
+                <mxCell id="13" value="Se Localiza En" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="205" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Es Réplica de" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
-                    <mxGeometry x="260" y="355" width="100" height="30" as="geometry"/>
+                <mxCell id="14" value="Es Réplica de" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="360" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Se Localiza en&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="490" y="480" width="100" height="30" as="geometry"/>
+                <mxCell id="15" value="Se Localiza en&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="500" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="205" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="505" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="339.58000000000004" y="410" as="sourcePoint"/>
+                        <mxPoint x="339.58000000000004" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=none;html=1;entryX=0;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="240" as="sourcePoint"/>
+                        <mxPoint x="560" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="endArrow=none;html=1;entryX=0;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="530" as="sourcePoint"/>
+                        <mxPoint x="580" y="530" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
