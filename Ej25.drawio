@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="VZEGg_dN7HzIqwlARWvR" name="Página-1">
+        <mxGraphModel dx="816" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Libro" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="10" width="332.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Número de hojas: 1 Número&lt;br/&gt;Forma de impresión: 1 enum FormaImpresión&lt;br/&gt;Técnica de encuadernación: 1 enum TécnicaEncuadernación" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="51.25" y="40" width="350" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="FormaImpresión&lt;br/&gt;Manuscrito&lt;br/&gt;Impreso&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="10" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="TécnicaEncuadernación&lt;br/&gt;Cosido&lt;br/&gt;Encuadernado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="10" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Muestra" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="190" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Fracción del total: 1 Número&lt;br/&gt;Método de extracción: 1 Texto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry y="30" width="180" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
