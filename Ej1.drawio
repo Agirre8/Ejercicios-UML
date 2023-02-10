@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="5xij1wekO-q9HOLDB2fo" name="Página-1">
+        <mxGraphModel dx="315" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="c1: Círculo" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Color = “Negro”&lt;br&gt;Diámetro = 1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="25" y="40" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="c2: Cuadrado" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Longitud = 1.5&lt;br/&gt;Color = “Azul”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4">
+                    <mxGeometry x="4" y="40" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="e1: Elipse" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="80" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Color = “Amarillo”&lt;br/&gt;Eje Mayor = 3&lt;br/&gt;Eje Menor = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="r1: Rectángulo&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="80" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="TexLongitud = 3&lt;br/&gt;Anchur a = 1&lt;br/&gt;Color = “Naranja”&lt;br/&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9">
+                    <mxGeometry x="10" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
